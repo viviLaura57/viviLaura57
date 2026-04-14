@@ -4,7 +4,7 @@ Let's conquer the digital world together!<br><br>Thank you for visiting my profi
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibetoIsCoding) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viviLaura57) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viviLaura57) <br/>
 📫 How to reach me vlauto373@gmail.com 
 
 # 💻 Tech Stack:
