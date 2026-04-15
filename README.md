@@ -1,6 +1,6 @@
 # 💫 About Me:
-<br><br>Hello! 👋 I'm Viviana Bermudez, a passionate young programmer constantly seeking knowledge. 
-Let's conquer the digital world together!<br><br>Thank you for visiting my profile!
+<br><br>Hello! 👋 I'm Viviana Bermudez, a passionate programmer constantly seeking knowledge. 
+<br><br>Thank you for visiting my profile!
 
 
 ## 🌐 Socials:
