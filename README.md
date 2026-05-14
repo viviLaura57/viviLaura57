@@ -5,7 +5,7 @@
 <br/>
 
 # 🦋 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviana-laura-b-ba37522b9/) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviana-laura-b-ba37522b9/)
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCg99YHqVz7-2BhbdtkgXRmQ?si=d_tYmCP9eW-Bosmu)<br/>
 📫 How to reach me vlauto373@gmail.com 
 # 💻 Tech Stack
