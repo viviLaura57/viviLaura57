@@ -4,7 +4,7 @@
 
 <br/>
 
-# 🔗 Connect With Me
+# 📌 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viviLaura57) <br/>
 📫 How to reach me vlauto373@gmail.com 
 # 💻 Tech Stack
