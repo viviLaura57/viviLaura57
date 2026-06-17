@@ -1,13 +1,6 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <h1>Hi!, I'm Viviana</h1>
-    </td>
-    <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" width="200">
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" width="200">
+
+# Hi!, I'm Viviana
 
 <br/>
 
