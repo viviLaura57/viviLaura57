@@ -1,4 +1,4 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <h1>Hi!, I'm Viviana</h1>
@@ -9,7 +9,6 @@
   </tr>
 </table>
 
-<br/>
 
 <br/>
 
