@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="./assets/header-banner4.png" width="100%" alt="Header" />
-</div>
+<h1 align="center">
+Hi!, I'm Viviana
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" width="65">
+</h1>
 
 <br/>
 
