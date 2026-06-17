@@ -1,7 +1,15 @@
-<h1 align="left">
-Hi!, I'm Viviana
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" width ="200" >
-</h1>
+<table>
+  <tr>
+    <td>
+      <h1>Hi!, I'm Viviana</h1>
+    </td>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" width="200">
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <br/>
 
