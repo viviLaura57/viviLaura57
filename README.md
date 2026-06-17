@@ -1,6 +1,6 @@
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" width="200">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&pause=1000&color=000000&width=500&lines=Hi!,+I'm+Viviana" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=0&pause=0&color=000000&width=500&lines=Hi!,+I'm+Viviana" alt="Header">
 Not a straight line. Not an easy road. But 100% effort, every single step.
 <br/>
 
