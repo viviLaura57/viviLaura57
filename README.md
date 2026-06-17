@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 align="left">
 Hi!, I'm Viviana
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" width="65">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZoOThjMmFyb3Iyam5zbTJ4M2R4OGV1MnB6b29reGVsMGNjNjZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2G9bXTHRCUJW/giphy.gif" >
 </h1>
 
 <br/>
